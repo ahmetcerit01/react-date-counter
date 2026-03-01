@@ -13,5 +13,5 @@ A simple yet effective date counter application built during Jonas Schmedtmann's
 - **CSS3** (Custom UI with a modern purple theme and dashed borders)
 
 ## 📸 Preview
-![App Screenshot](./your-screenshot-name.png)!<img width="382" height="453" alt="Ekran Resmi 2026-03-01 15 55 30" src="https://github.com/user-attachments/assets/89c4ed5c-a78c-476c-b713-39acba34d4cd" />
+(./your-screenshot-name.png)!<img width="382" height="453" alt="Ekran Resmi 2026-03-01 15 55 30" src="https://github.com/user-attachments/assets/89c4ed5c-a78c-476c-b713-39acba34d4cd" />
 
